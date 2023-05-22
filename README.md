@@ -1,4 +1,4 @@
-## Oi! Eu sou Paola Borely. Bem vinda(o) ao meu perfil
+## Oi! Eu sou Paola Borely. Seja bem vinda(o) ao meu perfil!
 
 - 🔭 Em transição de carreira
 - 🌱 Estudando Python e SQL
@@ -17,7 +17,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
-##
+##                                                                                                                  
 
 <div>
   <a href="https://instagram.com/itsmepaolaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
