@@ -4,9 +4,9 @@
 - 🌱 Estudando Python e SQL
 - 🤔 Aceito conselhos sobre a carreira na área de dados
 - ⚡ Algumas curiosidades:
-- Amo livros clássicos📚;
-- D&D só se for 3.5 e sempre jogo de feiticeira🔮;
-- Vegetariana 🥗.
+       *Amo livros clássicos📚;
+       *D&D só se for 3.5 e sempre jogo de feiticeira🔮;
+       *Vegetariana 🥗.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borely&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borely&layout=compact&theme=synthwave)](https://github.com/borely/github-readme-stats)
