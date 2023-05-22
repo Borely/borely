@@ -4,6 +4,7 @@
 - 🌱 Estudando Python e SQL
 - 🤔 Aceito conselhos sobre a carreira na área de dados
 - ⚡ Algumas curiosidades:
+- 
        *Amo livros clássicos📚;
        *D&D só se for 3.5 e sempre jogo de feiticeira🔮;
        *Vegetariana 🥗.
